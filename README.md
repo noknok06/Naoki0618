@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </a>
 
 <br>
-See my portfolio if you like<br>
+See my portfolio if you like 
 <a href="https://naoki0618.github.io/Portfolio/">
-  My Portfolio
+  "My Portfolio"
 </a>
